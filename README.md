@@ -1,4 +1,4 @@
-# free-resources
+# free-resource for developers
 
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
